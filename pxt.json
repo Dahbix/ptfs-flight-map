@@ -1,5 +1,6 @@
 {
     "name": "PTFS Flight Map",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*",
