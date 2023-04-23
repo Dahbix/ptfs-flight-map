@@ -1,0 +1,25 @@
+{
+    "name": "PTFS Flight Map",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
